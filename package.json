@@ -83,7 +83,7 @@
     "cypress": "^14.4.1",
     "dotenv-flow": "^3.2.0",
     "eslint": "^8.31.0",
-    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^4.2.1",
     "fishery": "^2.2.2",
     "graphql-zeus": "^7.0.7",
