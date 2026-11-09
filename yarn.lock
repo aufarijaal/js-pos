@@ -1760,10 +1760,10 @@
   resolved "https://registry.yarnpkg.com/@nestjs/mapped-types/-/mapped-types-12.0.1.tgz#847f32994bed00790c1700289e79b48552bb8b08"
   integrity sha512-AHkgYt6UgJ5XBE3v4zGUUdfPD7kCGBzOa/uHfOYkkRTfojYWLRCCdAJiyWNpIFHCySJH/MR2F/z4MrMo5YheHg==
 
-"@nestjs/passport@^12.0.0":
-  version "12.0.0"
-  resolved "https://registry.yarnpkg.com/@nestjs/passport/-/passport-12.0.0.tgz#b37af80aed4370cdbf81c65b0ca7f503e1add09f"
-  integrity sha512-FM9ioo2Dyj+cC7aeO4g19ijAXoRaHlW/GQZFbgXsM4Z9pyQedA8yOseb7ivfqlPwUKJlH9PFgeWniu6c0vb6dw==
+"@nestjs/passport@^12.0.1":
+  version "12.0.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/passport/-/passport-12.0.1.tgz#11e8c9759ed2da3d7985b0bcaf273fea9342eee2"
+  integrity sha512-GJNuSMrh4QjouB3nlztNOreWvu1IigJzY3hOiVtiNfFE4XOlznsUXQk7WAq0XnsOUvHusjYF3//9of0gEzm/+Q==
 
 "@nestjs/platform-express@^12.3.2":
   version "12.3.2"
@@ -7296,7 +7296,7 @@ mimic-function@^5.0.0:
   resolved "https://registry.yarnpkg.com/mimic-function/-/mimic-function-5.0.1.tgz#acbe2b3349f99b9deaca7fb70e48b83e94e67076"
   integrity sha512-VP79XUPxV2CigYP3jWwAUFSku2aKqBH7uTAapFWCBqutsbmDo96KY5o8uh6U+/YSIn5OxJnXp73beVkpqMIGhA==
 
-minimatch@11.0.5:
+minimatch@11.0.5, minimatch@^11.0.5:
   version "11.0.5"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-11.0.5.tgz#29589e94fc4d84193b2a31b082b0ec67b5ea1d42"
   integrity sha512-snPlVppFcYWfLLFQGhDxUyBcHNtMlWmn3jtj7pEaO+DP8pqL0IvAzXhMYmn1z9ASNtgmwLBdFxSf4tMUB0OTKA==
@@ -7310,14 +7310,6 @@ minimatch@^10.0.1, minimatch@^10.2.2, minimatch@^10.2.4, minimatch@^10.2.6:
   integrity sha512-vpLQEs+VLCr1nU0BXS07maYoFwlDAH0gngQuuttxIwutDFEMHq2blX+8vpgxDdK3J1PwjCJiep77OitTZ4Ll1A==
   dependencies:
     brace-expansion "^5.0.8"
-
-minimatch@^11.0.5:
-  version "11.0.5"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-11.0.5.tgz#29589e94fc4d84193b2a31b082b0ec67b5ea1d42"
-  integrity sha512-snPlVppFcYWfLLFQGhDxUyBcHNtMlWmn3jtj7pEaO+DP8pqL0IvAzXhMYmn1z9ASNtgmwLBdFxSf4tMUB0OTKA==
-  dependencies:
-    "@isaacs/nonrecursive-glob-match" "^1.1.0"
-    brace-expansion "^5.0.12"
 
 minimatch@^3.1.1:
   version "3.1.2"
